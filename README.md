@@ -10,7 +10,7 @@ Planned:
 - JavaScript (using [this Parser](https://github.com/googlearchive/caja/blob/master/src/com/google/caja/parser/js/Parser.java))
 - C#
 
-Feel free to over other languages. But it would help a lot if you could also refer to a Java Parser for this language.
+Feel free to offer other languages. But it would help a lot if you could also refer to a Java Parser for this language.
 ### How to use
 Install Java if it is not yet installed.
 

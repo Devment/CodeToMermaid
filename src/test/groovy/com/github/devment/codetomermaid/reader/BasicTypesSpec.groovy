@@ -19,10 +19,10 @@ class BasicTypesSpec extends Specification {
             })
         };
         Class[] classes1 = new Class[]{
-            new Class("Class1",attributes, methods)
+            new Class("Class1", attributes, methods)
         };
         Class[] classes2 = new Class[]{
-                new Class("Class2",attributes, methods)
+                new Class("Class2", attributes, methods)
         };
         File fileA = new File("FileA", classes1);
         File fileB = new File("FileB", classes2);
