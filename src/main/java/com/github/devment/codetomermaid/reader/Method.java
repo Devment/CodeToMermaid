@@ -2,6 +2,8 @@ package com.github.devment.codetomermaid.reader;
 
 /**
  * Data object storing all information regarding one <b>method</b>.
+ *
+ * @author Devment
  */
 public class Method extends Attribute {
     private static final String EMPTYRETURNTYPE = "void";

@@ -3,6 +3,11 @@ package com.github.devment.codetomermaid.reader
 
 import spock.lang.Specification
 
+/**
+ * All tests regarding the basic data classes implemented in this Project.
+ *
+ * @author Devment
+ */
 class BasicTypesSpec extends Specification {
     def "Test toString methods and Object creation" (){
         given:

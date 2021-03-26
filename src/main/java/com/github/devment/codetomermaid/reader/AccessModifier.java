@@ -3,10 +3,12 @@ package com.github.devment.codetomermaid.reader;
 /**
  * Enum representing access modifier and storing the information of the corresponding symbol.
  * <a href="http://mermaid-js.github.io/mermaid/#/classDiagram?id=visibility">Doku</a>
+ *
+ * @author Devment
  */
 public enum AccessModifier {
     INTERNAL('~'),
-    PACKAGE('~'),
+    PACKAGEPRIVATE('~'),
     PRIVATE('-'),
     PROTECTED('#'),
     PUBLIC('+');

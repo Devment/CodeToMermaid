@@ -5,6 +5,8 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * Singleton, storing all configuration data.
+ *
+ * @author Devment
  */
 public class Config {
     private static final Config instance = new Config();

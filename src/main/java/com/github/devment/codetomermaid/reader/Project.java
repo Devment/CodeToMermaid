@@ -4,6 +4,8 @@ import com.github.devment.codetomermaid.config.Config;
 
 /**
  * Data object storing all information regarding one <b>project</b>.
+ *
+ * @author Devment
  */
 public class Project {
     private final File[] files;

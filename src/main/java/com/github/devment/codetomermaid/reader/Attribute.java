@@ -2,6 +2,8 @@ package com.github.devment.codetomermaid.reader;
 
 /**
  * Data object storing all information regarding one <b>attribute</b>.
+ *
+ * @author Devment
  */
 public class Attribute extends Parameter {
     private final AccessModifier accessModifier;

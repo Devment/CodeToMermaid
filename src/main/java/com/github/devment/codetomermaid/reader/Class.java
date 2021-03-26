@@ -4,12 +4,15 @@ import com.github.devment.codetomermaid.config.Config;
 
 /**
  * Data object storing all information regarding one <b>class</b>.
+ *
+ * @author Devment
  */
 public class Class {
     private final String name;
     private final Attribute[] attributes;
     private final Method[] methods;
     //TODO add AccessModifier -> not yet possible in mermaid (see #2)
+    //TODO add interface support
 
     /**
      * Constructor.

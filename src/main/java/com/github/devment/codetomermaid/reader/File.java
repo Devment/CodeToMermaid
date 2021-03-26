@@ -2,6 +2,8 @@ package com.github.devment.codetomermaid.reader;
 
 /**
  * Data object storing all information regarding one <b>file</b>.
+ *
+ * @author Devment
  */
 public class File {
     private final String name; //TODO not needed at the momentt

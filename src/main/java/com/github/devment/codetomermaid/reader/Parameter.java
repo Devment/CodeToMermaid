@@ -3,6 +3,8 @@ package com.github.devment.codetomermaid.reader;
 
 /**
  * Data object storing all information regarding one <b>parameter</b>.
+ *
+ * @author Devment
  */
 public class Parameter {
     private final String name;
