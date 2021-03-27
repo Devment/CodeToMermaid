@@ -1,0 +1,3 @@
+test file the file reader test in 'ReaderSpec'
+
+\r\n @%& &nbsp; test text
